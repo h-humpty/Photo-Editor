@@ -1,8 +1,7 @@
-# photo-bucket-app
-Photo-Bucket project- a simple CRUD application created from React-App
+# Simple photo editor
 
 ![alt text](https://raw.githubusercontent.com/avishka964/photo-bucket-app/master/photo-bucket.png)
-
+Cancel changes
 # Features
 - Add photos(title, description, category)
 - View photos
@@ -18,4 +17,3 @@ npm install (root directory) and
 npm install
 npm run dev (both client & server)
 ```
-API documentation - https://documenter.getpostman.com/view/12480524/Tz5s3bnF
